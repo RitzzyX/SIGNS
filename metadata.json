@@ -1,0 +1,7 @@
+{
+  "name": "Signature Spaces",
+  "description": "A premium real estate platform featuring luxury listings, an AI property concierge, and a generative interior visualizer.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
